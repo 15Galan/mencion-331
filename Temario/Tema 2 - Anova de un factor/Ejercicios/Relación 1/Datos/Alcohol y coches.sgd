@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<statgraphics_data>
+  <FORMAT>
+    <DECIMALSYMBOL>,</DECIMALSYMBOL>
+    <DATESEPARATOR>/</DATESEPARATOR>
+    <DATEORDER>DMY</DATEORDER>
+  </FORMAT>
+  <COLUMNS>
+    <C1 Name="Año 1" Comment="" Type="N" Width="13"/>
+    <C2 Name="Año 2" Comment="" Type="N" Width="13"/>
+    <C3 Name="Año 3" Comment="" Type="N" Width="13"/>
+    <C4 Name="Año 4" Comment="" Type="N" Width="13"/>
+    <C5 Name="Col_5" Comment="" Type="N" Width="13"/>
+    <C6 Name="HONDA CIVIC" Comment="" Type="N" Width="13"/>
+    <C7 Name="HONDA ACCORD" Comment="" Type="N" Width="13"/>
+    <C8 Name="NISSAN SENTRA" Comment="" Type="N" Width="13"/>
+    <C9 Name="NISSAN TIIDA" Comment="" Type="N" Width="13"/>
+  </COLUMNS>
+  <ROW>
+    <C1>16</C1>
+    <C2>33</C2>
+    <C3>17</C3>
+    <C4>8</C4>
+    <C6>50</C6>
+    <C7>35</C7>
+    <C8>40</C8>
+    <C9>37</C9>
+  </ROW>
+  <ROW>
+    <C1>19</C1>
+    <C2>22</C2>
+    <C3>22</C3>
+    <C4>16</C4>
+    <C6>30</C6>
+    <C7>32</C7>
+    <C8>36</C8>
+    <C9>40</C9>
+  </ROW>
+  <ROW>
+    <C1>25</C1>
+    <C2>32</C2>
+    <C3>14</C3>
+    <C4>15</C4>
+    <C6>39</C6>
+    <C7>33</C7>
+    <C8>38</C8>
+    <C9>42</C9>
+  </ROW>
+  <ROW>
+    <C1>17</C1>
+    <C2>18</C2>
+    <C3>10</C3>
+    <C4>9</C4>
+    <C6>47</C6>
+    <C7>38</C7>
+    <C8>42</C8>
+    <C9>30</C9>
+  </ROW>
+  <ROW>
+    <C2>22</C2>
+    <C3>14</C3>
+    <C6>35</C6>
+    <C7>48</C7>
+    <C8>65</C8>
+    <C9>33</C9>
+  </ROW>
+  <ROW>
+    <C2>14</C2>
+    <C6>53</C6>
+    <C7>35</C7>
+    <C8>38</C8>
+    <C9>38</C9>
+  </ROW>
+  <ROW>
+    <C6>48</C6>
+    <C7>43</C7>
+    <C8>46</C8>
+    <C9>40</C9>
+  </ROW>
+  <ROW>
+    <C6>42</C6>
+    <C7>40</C7>
+    <C8>45</C8>
+    <C9>46</C9>
+  </ROW>
+  <ROW>
+    <C6>40</C6>
+    <C7>50</C7>
+    <C8>50</C8>
+    <C9>49</C9>
+  </ROW>
+  <ROW>
+    <C6>55</C6>
+    <C7>49</C7>
+    <C8>50</C8>
+    <C9>50</C9>
+  </ROW>
+</statgraphics_data>
