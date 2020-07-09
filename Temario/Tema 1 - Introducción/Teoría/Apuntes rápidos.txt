@@ -1,0 +1,31 @@
+Cómo calcular el tamaño de una muestra con un error dado:
+  Realizar un análisis de una variable para sacar la media.
+
+  En Statgraphics:
+    Herramientas > Tamaño muestral de una variable
+
+
+Pregunta del test de repaso 19
+  n = 12; media = 197,417; a = 0,05; sigma2 = 100 -> sigma = 10
+  H0 : u <= 196
+  H1 : u > 196
+
+  Prueba de hipótesis:
+    H0 = 196
+    sigma muestral (luego se especifica poblacional) = 10
+    media muestral = 196,417
+    tamaño muestra = 12
+
+  Análisis:
+    H0 : Mayor que
+    Prueba Z activada
+    a = 5
+
+  Resultado:
+    P-valor = 0,31176, donde P-valor > a.
+    Por tanto, no se rechaza H0.
+
+
+La Prueba Z se activa cuando:
+· La varianza es poblacional y conocida.
+· La varianza es desconocida y la muestra supera los 30 elementos.
